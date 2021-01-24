@@ -1,0 +1,9 @@
+pandas==0.25.1
+numpy==1.19.5
+seaborn==0.11.1
+streamlit== 0.74.1
+streamlit-folium==0.1.0
+folium==0.11.0
+matplotlib==3.3.2
+geopandas==0.8.1
+descartes==1.1.0
